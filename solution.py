@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-from scipy.stats import norm
+from scipy import stats
 
 
 chat_id = 440047378
